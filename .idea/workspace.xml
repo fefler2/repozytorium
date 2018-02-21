@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ec99b0-650c-4066-906b-0b59be6b9287" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ProjektMaven2id/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/HelloWorldController.java" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/HelloWorldController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloWorldController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/HelloWorldController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="547">
@@ -39,6 +38,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PulRiklest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ProjektMaven2/HelloWorldController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" />
       </list>
     </option>
   </component>
@@ -132,7 +142,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="11" />
     <option name="width" value="987" />
     <option name="height" value="1047" />
@@ -482,7 +492,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="0" width="987" height="1047" extended-state="0" />
+    <frame x="11" y="0" width="987" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -816,6 +826,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
