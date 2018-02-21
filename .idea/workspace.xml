@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ec99b0-650c-4066-906b-0b59be6b9287" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" />
+      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -832,7 +832,7 @@
     <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding />
         </state>
       </provider>
