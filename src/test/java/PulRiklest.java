@@ -2,6 +2,6 @@ public class PulRiklest {
 
     public static void main(String[] args) {
 
-        System.out.println("Pul Rikłest 20:06");
+        System.out.println("Pul Rikłest 20:07");
     }
 }
