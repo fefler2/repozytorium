@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PulRiklest {
+class ZadZJavy {
 
     public static void main(String[] args) {
 
@@ -9,7 +9,6 @@ public class PulRiklest {
         sekundy jako parametr i wypisuje na ekran czas w formacie hh:mm:ss.
         1000 = 00:16:40
         5000 = 01:23:20
-
          */
 
         Scanner scanner = new Scanner(System.in);
@@ -19,15 +18,29 @@ public class PulRiklest {
         int minutes = (seconds - (hours * 3600))/60;
         int second = seconds - (hours*3600 + minutes*60);
 
+        String clock = "";
 
         if (hours < 10){
-            System.out.println("0"+hours+":"+minutes+":"+second);
+            clock = "0" + hours+":";
         }
         else {
-            System.out.println(hours+":"+minutes+":"+second);
+            clock = ""+hours+":";
+        }
+        if (minutes < 10){
+            clock += "0"+minutes+":";
+        }
+        else {
+            clock += minutes+":";
         }
 
+        if (second < 10){
+            clock += "0"+second+":";
+        }
+        else {
+            clock += second+":";
+        }
 
+        System.out.println(clock);
 
     }
 }

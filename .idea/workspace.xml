@@ -43,8 +43,8 @@
       <file leaf-file-name="PulRiklest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="42" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -272,32 +272,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PulRiklest">
+  <component name="RunManager" selected="Application.ZadZJavy">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ProjektMaven2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ProjektMaven2.App" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ProjektMaven2id" />
-      <envs />
     </configuration>
     <configuration name="HelloWorldController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -354,6 +335,20 @@
     <configuration name="PulRiklest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="PulRiklest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../ProjektMaven2id" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjektMaven2id" />
+      <envs />
+    </configuration>
+    <configuration name="ZadZJavy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ZadZJavy" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../ProjektMaven2id" />
@@ -460,19 +455,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.App" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PetRock" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldController" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PulRiklest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PetRock" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldController" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PulRiklest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ZadZJavy" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.PetRockTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PulRiklest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorldController" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PetRock" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ZadZJavy" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PulRiklest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorldController" />
         <item index="3" class="java.lang.String" itemvalue="Application.PetRock" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PetRockTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PetRock" />
       </list>
     </recent_temporary>
   </component>
@@ -897,8 +892,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
