@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98ec99b0-650c-4066-906b-0b59be6b9287" name="Default" comment="" />
+    <list default="true" id="98ec99b0-650c-4066-906b-0b59be6b9287" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../ProjektMaven2id/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ProjektMaven2id/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java" />
+      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" />
+      <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/target/test-classes/ZadZJavy.class" afterPath="$PROJECT_DIR$/../ProjektMaven2id/target/test-classes/ZadZJavy.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PulRiklest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PulRiklest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -72,12 +78,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,7 +128,10 @@
         <option value="$PROJECT_DIR$/src/main/java/ProjektMaven2/HelloWorldController.java" />
         <option value="$PROJECT_DIR$/src/test/java/PulRiklest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PetRockTest.java" />
-        <option value="$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PulRiklest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PulRiklest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProjektMaven2/App.java" />
+        <option value="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java" />
       </list>
     </option>
   </component>
@@ -143,8 +154,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="width" value="987" />
+    <option name="x" value="-7" />
+    <option name="width" value="712" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -163,8 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -239,7 +249,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -543,6 +554,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PetRockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/test/java/PulRiklest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
