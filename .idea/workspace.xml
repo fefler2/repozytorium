@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98ec99b0-650c-4066-906b-0b59be6b9287" name="Default" comment="">
+    <list default="true" id="98ec99b0-650c-4066-906b-0b59be6b9287" name="Default" comment="m">
       <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ProjektMaven2id/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java" afterPath="$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java" />
     </list>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -491,6 +491,21 @@
       <option name="presentableId" value="Default" />
       <updated>1518872421963</updated>
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <created>1519935701695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519935701695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="m">
+      <created>1519935777552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519935777552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -542,6 +557,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m" />
+    <option name="LAST_COMMIT_MESSAGE" value="m" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -978,7 +997,7 @@
     <entry file="file://$PROJECT_DIR$/../ProjektMaven2id/src/main/java/ProjektMaven2/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding />
         </state>
       </provider>
